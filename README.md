@@ -10,16 +10,18 @@ Projeto _Recipes App_ (Aplicativo de Receitas), realizado em grupo durante o Cur
   - Hooks
 
 #### 📸 Layout:
-<img src="./src/images/screenshots/login.png" />
-<img src="./src/images/screenshots/recipes.png" />
-<img src="./src/images/screenshots/drinks.png" />
-<img src="./src/images/screenshots/details.png" />
-<img src="./src/images/screenshots/inprogress.png" />
-<img src="./src/images/screenshots/donerecipes.png" />
-<img src="./src/images/screenshots/favorites.png" />
-<img src="./src/images/screenshots/explorar.png" />
-<img src="./src/images/screenshots/explore-recipes.png" />
-<img src="./src/images/screenshots/explore-drinks.png" />
-<img src="./src/images/screenshots/explore-area.png" />
-<img src="./src/images/screenshots/profile.png" />
+<div display="flex">
+  <img src="./src/images/screenshots/login.png" width="350" />
+  <img src="./src/images/screenshots/recipes.png" width="350" />
+  <img src="./src/images/screenshots/drinks.png" width="350" />
+  <img src="./src/images/screenshots/details.png" width="350" />
+  <img src="./src/images/screenshots/inprogress.png" width="350" />
+  <img src="./src/images/screenshots/donerecipes.png" width="350" />
+  <img src="./src/images/screenshots/favorites.png" width="350" />
+  <img src="./src/images/screenshots/explorar.png" width="350" />
+  <img src="./src/images/screenshots/explore-recipes.png" width="350" />
+  <img src="./src/images/screenshots/explore-drinks.png" width="350" />
+  <img src="./src/images/screenshots/explore-area.png" width="350" />
+  <img src="./src/images/screenshots/profile.png" width="350" />
+</div>
 
